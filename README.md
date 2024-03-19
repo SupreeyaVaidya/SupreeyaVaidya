@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SupreeyaVaidya
-- 👀 I’m interested in Learning.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning PL-SQL
 - 💞️ I’m looking to collaborate on : N/A
 - 📫 How to reach me : Just email me supreeya22vaidya@gmail.com
